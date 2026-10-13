@@ -144,7 +144,7 @@ if (modal) {
 // 26 سبتمبر 2026 الساعة 12:00 AM
 
 const birthdayDate =
-    new Date("September 25, 2026 00:00:00").getTime();
+    new Date("September 25, 2027 00:00:00").getTime();
 
 
 // كلمة السر
